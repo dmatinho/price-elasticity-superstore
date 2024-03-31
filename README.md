@@ -1,1 +1,1 @@
-# price-elasticity-superstore
+# SuperStore Price Elasticity
